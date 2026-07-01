@@ -13,5 +13,5 @@ Python | Pandas | NumPy | Scikit-learn | TensorFlow | OpenCV
 - Machine Learning Model Comparison
 
 ## Contact
-Email:hediehys84@gmail.come
+Email:hediehys84@gmail.com
 
