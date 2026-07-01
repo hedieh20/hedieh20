@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hedieh 👋
 
-<!--
-**hedieh20/hedieh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student focused on Data Science, Machine Learning, and Deep Learning.
 
-Here are some ideas to get you started:
+## Skills
+Python | Pandas | NumPy | Scikit-learn | TensorFlow | OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Driver Drowsiness Detection (CNN)
+- Movie Recommendation System
+- Health Risk Prediction
+- Happiness Data Analysis
+- Machine Learning Model Comparison
+
+## Contact
+Email:hediehys84@gmail.come
+
